@@ -19,3 +19,4 @@ A Streamlit-based chat interface for interacting with Groq's language models.
 ## Installation
 
 1. Clone this repository:
+https://github.com/pleabargain/streamlit-groq
